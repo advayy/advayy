@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @advayy
+- 👀 I’m interested in design, games and learning programming
+- 🌱 I’m currently learning harvard's CS50X course
+- 📫 You can reach me on twitter @advay_rajguru
